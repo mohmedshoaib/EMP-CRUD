@@ -1,0 +1,139 @@
+/* #container {
+  height: 5vh;
+  position: relative;
+  z-index: 2;
+  padding: 10px 20px 20px 20px;
+  background: #fff;
+}
+
+.search_filter {
+  background: #f2f2f2;
+  position: fixed;
+  height: 50px;
+  border-radius: 7px;
+  padding: 10px 35px;
+  min-width: 90%;
+}
+.search_input {
+  width: 180px;
+  height: 40px;
+  margin-top: 5px;
+  border-radius: 7px;
+  border: 1px solid rgb(0, 0, 0, 0.2);
+  outline: none;
+  padding: 0px 15px;
+  margin-left: 5px;
+  margin-bottom: 10px;
+}
+.search_input_status {
+  width: 200px;
+  height: 40px;
+  margin-top: 5px;
+  border-radius: 7px;
+  border: 1px solid rgb(0, 0, 0, 0);
+  border-style: none;
+  background: #fff;
+  outline: none;
+  padding: 0px 15px;
+  margin-left: 5px;
+  margin-bottom: 10px;
+}
+
+.search_filter .export_data {
+  width: 83px;
+  height: 39px;
+  color: white;
+  border-radius: 5px;
+  border: 1px solid rgb(0, 0, 0, 0.2);
+  display: inline-block;
+  outline: none;
+  padding: 2px;
+  margin-left: 3px;
+  padding: 1px 5px;
+  background: #00235B;
+  text-decoration: none;
+  cursor: pointer;
+  transition: 0.2ms;
+}
+.search_filter .export_data:hover {
+  background-color: #374458;
+}
+
+.cont {
+  width: 400px;
+}
+.addcont {
+  width: 400px;
+}
+.editcont {
+  width: 400px;
+}
+.addsalcont {
+  width: 280px;
+}
+
+
+@media (max-width: 480px)  {
+  .cont {
+    width: 75vw !important;
+  }
+  .addcont {
+    width: 70vw !important;
+  }
+  .editcont {
+    width: 70vw !important;
+  }
+  .addsalcont {
+    width: 72vw !important;
+  }
+  .search_filter {
+    width: 90vw !important;
+    background-color: #00235B;
+  }
+} */
+
+/* .uplt {
+  position: absolute;
+  background-color: #f7f7f7;
+  outline: none;
+  margin: 10% 20%; 
+  border-radius: 5px;
+  width: 750px;
+  height: 250px;
+  min-width: 50%;
+  min-height: 35%;
+}
+.uplt .uplthead {
+  background-color: rgb(66, 81, 212);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding: 8px 0px;
+  height: 20px;
+  margin-top: 0;
+  content: center;
+}
+.file-input-wrapper {
+  display: flex;
+  align-items: center;
+}
+.user_input {
+  margin-top: 35px;
+  margin-left: 220px;
+  padding-left: 40px;
+  padding-top: 20px;
+  width: 250px;
+  border-radius: 5px;
+  height: 45px;
+  background-color: #fefefe;
+} */
+
+/* .side-bar-list {
+  margin-top: 50px;
+}
+
+.side-bar-content {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  width: 400px;
+  height: 50px;
+} */

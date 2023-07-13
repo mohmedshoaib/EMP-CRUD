@@ -1,0 +1,24 @@
+/* *{padding: 0px; margin: 0px; box-sizing: border-box; font-family: 'Noto Sans', sans-serif;}
+body{background:#e6e6e6}
+:active, :hover, :focus { outline: 0!important; outline-offset: 0;}
+::before, ::after { position: absolute; content: ""; }
+#container{height: 100vh; position: relative; z-index: 2; padding:80px 20px 20px 20px;} 
+.filter{background: #eae9f1; margin-bottom: 20px; height: 50px; border-radius: 5px; padding-top: 12px; padding-left: 10px;}
+.search_inpt_1{ position: absolute; top: 5.7rem; left: 2rem; width: 200px; height: 30px;  border-radius: 3px; border-style: none; padding-left: 10px;}
+.search_inpt_2{ position: absolute; top: 5.7rem; left: 15rem; width: 200px; height: 30px;  border-radius: 3px; border-style: none; padding-left: 10px; font: 13px sans-serif;}
+.search_inpt_3{ position: absolute; top: 5.7rem; left: 28rem; width: 200px; height: 30px;  border-radius: 3px; border-style: none; padding-left: 10px;}
+.select-selected {background-color: #f5f5f5;}
+.expt-btn{ position: absolute; top: 5.6rem; right: 9rem; width: 70px; height: 30px; border-radius: 3px; border-style: none; background: #4E4FEB;  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; cursor: pointer; }
+.impt-btn{ position: absolute; top: 5.6rem; right: 4rem; width: 70px; height: 30px; border-radius: 3px; border-style: none; background: #4E4FEB;  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; cursor: pointer;}
+.title-block{background: #0A6EBD; margin-bottom: 0px; border-top-left-radius: 5px; border-top-right-radius: 5px; height: 50px; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;}
+.add-proj-btn { position: absolute; top: 10rem; right: 3rem; width: 130px; height: 30px; background: #ECF8F9; border-style: none; border-radius: 3px; cursor: pointer;}
+.add-proj-btn:hover {box-shadow: 0 5px 10px rgba(0,0,0,0.2); transition: box-shadow 0.2s ease-in-out;}
+.title-block-hd { padding-top: 15px; padding-left: 10px; flex-direction: row; color: white;}
+.cd-div{height: 51.2vh; background:#f5f6f7; border: 1px thin rgb(0,0,0,0.2); border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; margin-top: 0px; overflow: auto; padding: 0; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;}
+.cd-table{width:100%; border:1px solid rgb(0,0,0,0.2);}
+.cd-table thead tr th{background:#fff;}
+.cd-table thead tr th,.cd-table tbody tr td{height:55px; font-size: 12px; text-align: left; padding: 0px 10px;}
+.cd-table thead tr th:first-child{border-top-left-radius: 5px; border-style: none; }
+.cd-table thead tr th:last-child{border-top-right-radius: 5px;}
+.cd-table tbody tr:nth-child(2n+2){background:#d5d3d8}
+.edit-btn{border-style: none; cursor: pointer; background-color: inherit;} */

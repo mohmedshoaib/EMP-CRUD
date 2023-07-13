@@ -1,0 +1,92 @@
+/* .add-proj-div {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  top: 0px;
+  left: 0px;
+  background-color: rgb(0, 0, 0, 0.2);
+}
+
+.ad-proj-hd-div {
+  width: 50vw;
+  height: 400px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #ecf1fc;
+  border-radius: 4px;
+}
+
+.add-proj-title {
+  width: 100%;
+  position: relative;
+  height: 40px;
+  background: rgb(50, 124, 235);
+  text-align: center;
+  line-height: 40px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.close-pop-up {
+  position: absolute;
+  top: 0.4rem;
+  right: 1rem;
+  cursor: pointer;
+}
+
+.add-proj-form {
+  position: absolute;
+  top: 30%;
+  left: 27%;
+  width: 600px;
+  height: 218px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: transparent;
+  border-radius: 3px;
+  padding: 10px;
+}
+
+.proj-add-field,
+.proj-add-field-1 {
+  width: 400px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  border-style: none;
+}
+
+.proj-add-field-1 {
+  min-width: 400px;
+  max-width: 400px;
+  min-height: 120px;
+}
+
+.add-proj-form-btn {
+  width: 150px;
+  height: 33px;
+  position: absolute;
+  top: 67%;
+  left: 45%;
+  border-style: none;
+  background: rgb(20, 122, 240);
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.edit-proj-form-btn {
+  width: 150px;
+  height: 33px;
+  position: absolute;
+  top: 70%;
+  left: 45%;
+  border-style: none;
+  background: rgb(20, 122, 240);
+  border-radius: 3px;
+  cursor: pointer;
+} */
